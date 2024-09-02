@@ -1,10 +1,10 @@
 # 📊 Statistical Analysis of Baccalaureate Exam Results in Romania
 
-## 🛠 Project Overview:
+## 🛠 Study Overview:
 
-This project presents a comprehensive statistical analysis of the Baccalaureate exam results in Romania from 2020 to 2023. The study delves into various aspects of the exam, including performance across different demographics, the influence of educational factors, and trends over time. Advanced statistical methods were applied to uncover key insights and patterns that can inform educational policy and strategy.
+This study presents a comprehensive statistical analysis of the Baccalaureate exam results in Romania from 2020 to 2023. The study delves into various aspects of the exam, including performance across different demographics, the influence of educational factors, and trends over time. Advanced statistical methods were applied to uncover key insights and patterns that can inform educational policy and strategy.
 
-**This project was created together with Emőke Rafain (shecodespython on github) and Andrea Simon.**
+**This study was conducted together with Emőke Rafain (shecodespython on github) and Andrea Simon.**
 
 ## 🚀 Key Components:
 
